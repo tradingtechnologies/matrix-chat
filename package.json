@@ -59,7 +59,7 @@
   "dependencies": {
     "browser-request": "^0.3.3",
     "gfm.css": "^1.1.2",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^10.4.1",
     "matrix-js-sdk": "6.2.1",
     "matrix-react-sdk": "2.7.1",
     "olm": "https://packages.matrix.org/npm/olm/olm-3.1.4.tgz",
